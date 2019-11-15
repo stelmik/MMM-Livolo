@@ -1,0 +1,21 @@
+{
+  "name": "mmm-livolo",
+  "version": "1.0.0",
+  "description": "Module for livolo rf enabled switches to use with Magic Mirror over 433 MHz rf transmitter",
+  "main": "MMM-Livolo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MagicMirror",
+    "livolo"
+  ],
+  "author": "Krzysztof Stelmach",
+  "license": "MIT",
+  "dependencies": {
+    "livolo": "^1.0.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.8.5"
+  }
+}
